@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/lava/lava/workspace/MyGame/MyGame/proj.android/app/MyGame.iml" filepath="$USER_HOME$/lava/lava/workspace/MyGame/MyGame/proj.android/app/MyGame.iml" />
+      <module fileurl="file://$USER_HOME$/lava/lava/workspace/MyGame/MyGame/cocos2d/cocos/platform/android/libcocos2dx/libcocos2dx.iml" filepath="$USER_HOME$/lava/lava/workspace/MyGame/MyGame/cocos2d/cocos/platform/android/libcocos2dx/libcocos2dx.iml" />
+      <module fileurl="file://$USER_HOME$/lava/lava/workspace/MyGame/MyGame/proj.android/proj.android.iml" filepath="$USER_HOME$/lava/lava/workspace/MyGame/MyGame/proj.android/proj.android.iml" />
+    </modules>
+  </component>
+</project>
